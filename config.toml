@@ -1,0 +1,4 @@
+baseURL = 'https://irishbayesian.github.io/'
+languageCode = 'en-us'
+title = 'Irish Bayesian Blog'
+theme = "archie"
